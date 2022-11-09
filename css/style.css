@@ -206,8 +206,9 @@ header {
 }
 
 .services-2-content a:hover {
-    color: black !important;
     background-color: white !important;
+    color: #dc3545 !important;
+    border: 1px solid #dc3545;
 }
 
 .single-services .text {
