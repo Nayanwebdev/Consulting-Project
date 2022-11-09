@@ -318,7 +318,11 @@ header {
     font-size: 45px;
     font-weight: 700;
 }
-
+.want-to-work a:hover {
+    background-color: white !important;
+    color: #dc3545 !important;
+    border: 1px solid #dc3545;
+}
 /* blog */
 .blog img:hover {
     transform: scale(1.1);
