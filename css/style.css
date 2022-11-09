@@ -203,6 +203,7 @@ header {
 
 .services-2-content a {
     font-weight: 600;
+    border: 1px solid transparent;
 }
 
 .services-2-content a:hover {
