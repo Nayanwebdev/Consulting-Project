@@ -340,7 +340,11 @@ header {
     color: var(--p-color);
     line-height: 24px;
 }
-
+.blog-caption a:hover {
+    background-color: white !important;
+    color: #dc3545 !important;
+    border: 1px solid #dc3545;
+}
 /* footer */
 
 footer {
