@@ -148,11 +148,13 @@ header {
 
 .banner-content a {
     font-weight: 600;
+    border:1px solid transparent;
 }
 
 .banner-content a:hover {
     background-color: white !important;
-    color: black !important;
+    color: #dc3545 !important;
+    border: 1px solid #dc3545;
 }
 
 .inner-banner {
