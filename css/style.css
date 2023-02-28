@@ -60,6 +60,9 @@ body {
 .fs-13 {
     font-size: 13px;
 }
+button:focus:not(:focus-visible){
+    box-shadow: none;
+}
 
 /* section heading */
 .heading h4 {
