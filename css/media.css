@@ -172,7 +172,17 @@
 
     .member {
     margin-bottom: 20px;
-}
+    }
+    .logo-1,.logo-2 {
+    margin-bottom: 30px;
+    }
+    .want-to-work h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+    }
+    section.blog.bg-light {
+    padding-bottom: 0px;
+    }
 }
 
 
