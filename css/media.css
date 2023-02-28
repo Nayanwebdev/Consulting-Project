@@ -105,7 +105,10 @@
     }
 
     .testimonial .content {
-        padding: 40px 70px;
+        padding: 40px 50px;
+    }
+    .testimonial i{
+        margin-bottom: 30px;
     }
 
     .testimonial-number {
@@ -164,9 +167,12 @@
     }
 
     .testimonial-number .number {
-        margin-bottom: 30px;
+        margin-bottom: 20px;
     }
 
+    .member {
+    margin-bottom: 20px;
+}
 }
 
 
