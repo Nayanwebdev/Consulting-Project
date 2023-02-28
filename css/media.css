@@ -113,15 +113,15 @@
     }
 
     .testimonial-number .number {
-        margin-bottom: 30px;
+        margin-bottom:0px;
     }
 
     .carousel-control-prev {
-        left: -30px;
+        left: 0px;
     }
 
     .carousel-control-next {
-        right: -30px;
+        right: 0px;
     }
 }
 
